@@ -11,5 +11,8 @@ class RuleEngine {
   }
 }
 
+// gRule regex
+// [\w\d]+ is in position \(\d+,\d+\)
+
 // This works
 module.exports = RuleEngine
